@@ -38,3 +38,8 @@ streamlit run main.py
 - Applies Porter Stemming
 - Searches across predefined web pages
 - Ranks results using normalization and TF-IDF
+
+## 🤝 Contributing
+
+Contributions are welcome! Please check the outstanding issues and feel free to open a pull request.
+
