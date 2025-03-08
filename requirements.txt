@@ -1,0 +1,5 @@
+streamlit-1.43.1
+nltk
+beautifulsoup4
+urllib3
+google-search-results

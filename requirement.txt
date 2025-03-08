@@ -1,4 +1,0 @@
-streamlit
-nltk
-beautifulsoup4
-urllib3
